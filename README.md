@@ -32,7 +32,7 @@ Login to registry container with the following command:
 $ heroku container:login
 ```
 
-Create a new `min-aspnetcore` app in Heroku
+Create a new `min-aspnetcore` or your desired app name in Heroku
 
 ```shell
 $ heroku create min-aspnetcore
@@ -49,6 +49,9 @@ Open the app in your browser
 ```shell
 $ heroku open
 ```
+
+Sample Published Site
+https://min-aspnetcore.herokuapp.com/
 
 
 
